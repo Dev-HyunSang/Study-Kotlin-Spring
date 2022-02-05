@@ -1,5 +1,5 @@
 # 코틀린 스프링부트 개발
-[**코틀린 스프링부트 개발**](https://youtube.com/playlist?list=PL4bPfpQGrkz7Y_7D5X2UaWGYTTdaCNoDs) 강의 영상을 참고하여서 공부합니다.
+[**코틀린 스프링부트 개발**](https://youtube.com/playlist?list=PL4bPfpQGrkz7Y_7D5X2UaWGYTTdaCNoDs) 강의 영상을 보고 공부합니다.
 
 ## Study List:
 - [코틀린 스프링부트 #1](https://youtu.be/trK253PPUP8) / 완료
