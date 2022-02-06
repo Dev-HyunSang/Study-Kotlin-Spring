@@ -8,7 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping
 class HtmlController {
 
     @RequestMapping("/")
-    fun index(model: Model) {
-        println("This Index!")
+    fun index(model: Model): String {
+        return "Index"
     }
 }
+
+//
